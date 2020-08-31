@@ -17,6 +17,6 @@ The purpose of this project is to scrape the images of the Mar's hemisphere onli
 
 ## Mission-to-Mars Results
 >
->**Image showing the hemisphere images as thumbnails:**
+>**Image showing the Mission to Mars web app:**
 >
->![hemisphere_images](./Resources/hemisphere_images.png)
+>![Web_page](./Resources/Web_page.png)
