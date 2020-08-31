@@ -2,7 +2,7 @@
 New project on Mission to Mars analysis. Making changes to the weather app.
 
 ## Project Overview
-This project will be using Python, Pandas and API Keys to create a travel and destination map fuse with weather data. It has been recommended that a few changes are to me made in order to take the app to the next level. Recommendations requested specifically asks for adding the weather description to the weather data already retrieved. Afterwhich, the beta testers will use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route will be ctreated between the four cities as well as a marker layer map. Ergo, this assignment consists of three technical deliverables. They are:
+This project will be using Python, Pandas and API Keys to adjust the current web app to include all four of the hemisphere images. To do this, BeautifulSoup and Splinter will be used to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images. Ergo, this assignment consists of three technical deliverables. They are:
 
 - Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
